@@ -42,9 +42,6 @@ This repo includes a script (`fix-audio.sh`) that:
 
 ### 1. 📦 Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/samsung-chromebook4-audio-fix.git
-cd samsung-chromebook4-audio-fix
 2. 📁 Add Your Kernel .deb Files
 Place your .deb kernel files (from Ubuntu 24.04 or newer) inside the kernel/ folder.
 
